@@ -159,24 +159,24 @@ plt.show()
 ### Missing Values Heatmap
 This heatmap shows that there are no missing values in the dataset.
 
-![Missing Values Heatmap](path/to/missing_values_heatmap.png)
+![Missing Values Heatmap](Images/heatmap.png)
 
 ### Correlation Matrix
 This correlation matrix visualizes the relationships between different features in the dataset. It helps identify which features are highly correlated with the target class and with each other.
 
-![Correlation Matrix](path/to/correlation_matrix.png)
+![Correlation Matrix](Images/Correlation_matrix.png)
 
 ### Confusion Matrix
 The confusion matrix shows the performance of the classification model, displaying the true labels against the predicted labels.
 
-![Confusion Matrix](path/to/confusion_matrix.png)
+![Confusion Matrix](Images/Confusion_matrix.png)
 
 ### Classification Report
 The classification report provides a detailed performance analysis of the model, including precision, recall, and F1-score for each class.
 
-![Classification Report](path/to/classification_report.png)
+![Classification Report](Images/classification_report.png)
 
 ### ROC Curve for Multi-Class
 The ROC curve demonstrates the model's ability to distinguish between different classes. The AUC (Area Under the Curve) values for each class are shown in the legend.
 
-![ROC Curve](path/to/roc_curve.png)
+![ROC Curve](Images/ROC.png)
