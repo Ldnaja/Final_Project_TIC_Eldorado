@@ -169,12 +169,7 @@ This correlation matrix visualizes the relationships between different features 
 ### Confusion Matrix
 The confusion matrix shows the performance of the classification model, displaying the true labels against the predicted labels.
 
-![Confusion Matrix](Images/Confusion_matrix.png)
-
-### Classification Report
-The classification report provides a detailed performance analysis of the model, including precision, recall, and F1-score for each class.
-
-![Classification Report](Images/classification_report.png)
+![Confusion Matrix](Images/Confusion_matriz.png)
 
 ### ROC Curve for Multi-Class
 The ROC curve demonstrates the model's ability to distinguish between different classes. The AUC (Area Under the Curve) values for each class are shown in the legend.
